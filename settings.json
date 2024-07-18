@@ -1,0 +1,61 @@
+{
+  "editor.fontSize": 16,
+  "editor.lineHeight": 1.8,
+  "terminal.integrated.fontSize": 16,
+  "workbench.iconTheme": "symbols",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.minimap.enabled": false,
+  "editor.wordWrap": "on",
+  "workbench.editor.tabSizing": "shrink",
+  "explorer.compactFolders": false,
+
+  // formatter
+  "prettier.tabWidth": 2,
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "none",
+  "prettier.arrowParens": "avoid",
+  "prettier.endOfLine": "auto",
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+},
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "explorer.confirmDelete": false,
+  "workbench.editor.enablePreview": false,
+  "remote.SSH.defaultExtensions": ["gitpod.gitpod-remote-ssh"],
+  "remote.SSH.configFile": "C:\\Users\\walde\\AppData\\Local\\Temp\\gitpod_ssh_config-10140-Tps4YIiab1NO",
+  "git.suggestSmartCommit": false,
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "settingsSync.ignoredExtensions": [],
+  "window.commandCenter": true,
+  "workbench.colorTheme": "Bearded Theme Vivid Black",
+  "wallpaper-setting.filePath": "c:\\Users\\walde\\OneDrive\\Área de Trabalho\\Pasta do desktop\\wallpaperflare.com_wallpaper (5).jpg",
+  "wallpaper-setting.opacity": 0.9,
+
+  "workbench.colorCustomizations": {
+    "[One Dark Pro Darker]": {
+      "charts.red": "#006eff"
+    }
+  },
+  "git.confirmSync": false,
+  "editor.stickyScroll.enabled": false,
+  "git.autofetch": true,
+  "background.editorBackgrounds": [],
+  "background.windowBackgrounds": [
+    "c:/Users/walder_william/Desktop/Arquivos do desktop/dfn1fam-bbc6bbc0-4045-496f-81c6-d0b71157ac84.png"
+  ],
+  "workbench.productIconTheme": "fluent-icons",
+  "symbols.hidesExplorerArrows": false
+}
